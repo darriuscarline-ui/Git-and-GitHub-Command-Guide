@@ -50,4 +50,11 @@ git pull origin main
 ## Conclusion
 These Git commands provide the foundation for managing
 project changes and working with GitHub.
-  
+
+## 7. git log
+
+Displays the history of commits in a repository.
+
+```bash
+git log --oneline
+```
