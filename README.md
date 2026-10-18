@@ -19,3 +19,11 @@ commands, branching, commits, and pull requests.
 3. Creating and Managing Branches
 4. Working with Pull Requests
 5. Resolving Merge Conflicts
+
+## Screencast
+
+This video demonstrates my GitHub repository,
+Git commit history, branching and merging,
+Issues, Pull Requests, and merge conflict resolution.
+
+Watch video(https://www.loom.com/share/c015641c1c96478b90e776b78a4c8663)
