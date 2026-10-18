@@ -50,3 +50,23 @@ git push -u origin feature/new-feature
 Branches and pull requests help developers organize
 changes, review work, and maintain a stable main branch.
   
+## Merging and Deleting Branches
+
+After a pull request has been reviewed, the changes
+can be merged into the main branch on GitHub.
+
+To update the local main branch:
+
+```bash
+git switch main
+git pull origin main
+```
+
+To delete a completed local feature branch:
+
+```bash
+git branch -d feature/new-feature
+```
+
+Deleting completed branches helps keep a repository
+organized and easier to maintain.
