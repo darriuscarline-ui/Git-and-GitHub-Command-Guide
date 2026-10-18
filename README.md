@@ -1,4 +1,4 @@
-# A Beginner's Guide to Git and GitHub
+# A Practical Beginner's Guide to Git, GitHub, and Version Control
 
 ## Introduction
 
